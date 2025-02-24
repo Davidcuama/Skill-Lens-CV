@@ -1,1 +1,30 @@
 
+# Requerimientos Funcionales
+
+## US1: Crear escáner de imagen
+**Descripción:**  
+Como usuario, quiero escanear imágenes para digitalizar documentos físicos de manera eficiente.
+
+**Criterios de Aceptación:**  
+- ✅ Los usuarios deben poder escanear documentos físicos a formato digital.  
+- ✅ El sistema debe almacenar correctamente las imágenes escaneadas.  
+
+---
+
+## US2: Editar y eliminar archivo digitalizado
+**Descripción:**  
+Como usuario, quiero editar y eliminar documentos escaneados para gestionar mis archivos fácilmente.
+
+**Criterios de Aceptación:**  
+- ✅ Los usuarios deben poder editar documentos escaneados.  
+- ✅ Los usuarios deben poder eliminar documentos escaneados de manera permanente.  
+
+---
+
+## US3: Modelar guardado del archivo
+**Descripción:**  
+Como usuario, quiero un sistema de almacenamiento estructurado para recuperar y gestionar mis documentos escaneados fácilmente.
+
+**Criterios de Aceptación:**  
+- ✅ El sistema debe permitir guardar archivos escaneados con metadatos.  
+- ✅ Los usuarios deben poder organizar archivos en diferentes categorías.  
